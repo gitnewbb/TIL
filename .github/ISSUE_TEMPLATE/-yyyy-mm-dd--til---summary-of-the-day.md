@@ -1,7 +1,7 @@
 ---
 name: "[YYYY-MM-DD] TIL - Summary of the Day"
 about: What I’ve Learned and What’s Ahead
-title: ''
+title: "[2025-MM-DD] WIL - Summary of the Week"
 labels: ''
 assignees: ''
 

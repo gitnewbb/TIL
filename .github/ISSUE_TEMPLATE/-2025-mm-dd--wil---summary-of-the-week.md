@@ -1,7 +1,7 @@
 ---
 name: "[2025-MM-DD] WIL - Summary of the Week"
 about: Weekly I learned
-title: ''
+title: "[2025-MM-DD] WIL - Summary of the Week"
 labels: ''
 assignees: ''
 
